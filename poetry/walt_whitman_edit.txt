@@ -1,19 +1,4 @@
-Title: Leaves of Grass
-
-Author: Walt Whitman
-
-Posting Date: August 24, 2008 [EBook #1322]
-Release Date: May, 1998
-
-Language: English
-
-Character set encoding: ASCII
-
-LEAVES OF GRASS
-
-By Walt Whitman
-
-
+[Leaves of Grass by Walt Whitman]
 
      Come, said my soul,
      Such verses for my Body let us write, (for we are one,)
