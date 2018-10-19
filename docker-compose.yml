@@ -1,0 +1,14 @@
+version: '3'
+services:
+  local-development:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8888:8888"
+    volumes:
+      - .:/home/jovyan
+    restart: on-failure
+    
+    # replace the hashed password in this command with your own generated with IPython.lib.passwd
+    command: /home/root/startup.sh # --NotebookApp.base_url=/home/jovyan
